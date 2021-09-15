@@ -1,21 +1,27 @@
-# Hello_Microverse_Project
-This is a project to set up a "Hello Microverse" project
+# Hello World - HTML and CSS basics
+This proyect is my first project as a micronaut
 
 # Built With
-HTML
 CSS
+HTML
 
-# Author
+# Prerequisites
+Basic knowledge in HTML and CSS
+
+# Deployment
+Using an IDE to develop html and css code to modify it or run it directly with your browser :)
+
+# Authors
+Richard Oveh
 Github: omorich1
 
-# Contribution
+# Contributing
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
 
 # Show your support
 Give a ⭐️ if you like this project!
-
-# Acknowledgments
-To God almighty
 
 # License
 This project is MIT licensed.
