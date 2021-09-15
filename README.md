@@ -1,27 +1,47 @@
-# Hello World - HTML and CSS basics
-This proyect is my first project as a micronaut
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Built With
-CSS
-HTML
+# Hello-HTML amd CSS Basoc
 
-# Prerequisites
-Basic knowledge in HTML and CSS
+This project is my first project as a Micronaut
 
-# Deployment
-Using an IDE to develop html and css code to modify it or run it directly with your browser :)
+## Built With
 
-# Authors
-Richard Oveh
-Github: omorich1
+- Html
+- Css
 
-# Contributing
+
+### Prerequisites
+ Basic knowledge in HTML and CSS
+
+
+### Deployment
+
+Using an IDE to develop html and css code to modify it or run it directly with your browser 
+
+## Authors
+
+👤 **Richard Oveh**
+
+- GitHub: [@omorich1](https://github.com/omorich1)
+
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-# Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-# License
-This project is MIT licensed.
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
