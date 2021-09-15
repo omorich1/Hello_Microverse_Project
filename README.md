@@ -1,20 +1,47 @@
-Hello_Microverse_Project
-This is a project to set up a "Hello Microverse" project
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Built With
-HTML CSS
+# Hello-HTML amd CSS Basoc
 
-Author
-Github: omorich1
+This project is my first project as a Micronaut
 
-Contribution
+## Built With
+
+- Html
+- Css
+
+
+### Prerequisites
+ Basic knowledge in HTML and CSS
+
+
+### Deployment
+
+Using an IDE to develop html and css code to modify it or run it directly with your browser 
+
+## Authors
+
+👤 **Richard Oveh**
+
+- GitHub: [@omorich1](https://github.com/omorich1)
+
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Show your support
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-To God almighty
+## Acknowledgments
 
-License
-This project is MIT licensed.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
