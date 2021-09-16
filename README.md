@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello-HTML amd CSS Basoc
+# Hello-HTML and CSS Basic
 
 This project is my first project as a Micronaut
 
